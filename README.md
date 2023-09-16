@@ -9,7 +9,14 @@ Dotfiles for Hyprland on Arch btw.
 - terminal: [kitty](https://sw.kovidgoyal.net/kitty)
 - text editor: [Neovim](https://neovim.io) with [NvChad](https://nvchad.com)
 - shell: [Zsh](https://wiki.archlinux.org/title/Zsh) with [Oh My ZSH!](https://ohmyz.sh)
+- color scheme: [Pywal](https://github.com/dylanaraps/pywal)
 
 ## Usage
 
-`dotfiles` can be used as dotfiles for Hyprland on Arch btw.
+### Install
+
+Install the packages listed above.
+
+### Configure
+
+Copy the config folders to the respective destinations.
