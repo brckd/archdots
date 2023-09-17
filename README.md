@@ -8,6 +8,8 @@ Dotfiles for Hyprland on Arch btw.
 
 ## Dependencies
 
+Install the software below to make use of the config.
+
 | component | software                                                             | install                                                                                           |
 | --------- | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
 | os        | [Arch Linux](https://archlinux.org)                                  | [guide](https://wiki.archlinux.org/title/Installation_guide)                                      |
@@ -23,16 +25,14 @@ Dotfiles for Hyprland on Arch btw.
 | auth      | [polkit-kde-agent](https://invent.kde.org/plasma/polkit-kde-agent-1) | `pacman -S polkit-kde-agent`                                                                      |
 | stats     | [rxfetch](https://github.com/Mangeshrex/rxfetch)                     | `yay -S rxfetch ttf-material-design-icons`                                                        |
 
-## Usage
-
-### Install
-
-Install the [dependencies](#dependencies) listed above.
-
-### Configure
+## Configure
 
 Copy the config folders to their respective destination.
 
 ```zsh
 cp -r hypr/ $HOME/.config/
 ```
+
+## Wallpapers
+
+Place wallpapers into `~/.wallpapers/DESKTOP.png` for each `DESKTOP` from `1` through `10`. You can also get my personal selection of wallpapers [here](https://wallhaven.cc/user/bricked/favorites/1610011).
