@@ -6,10 +6,14 @@ Dotfiles for Hyprland on Arch btw.
 
 - os: [Arch Linux](https://archlinux.org)
 - wm: [Hyprland](https://hyprland.org)
-- terminal: [kitty](https://sw.kovidgoyal.net/kitty)
-- text editor: [Neovim](https://neovim.io) with [NvChad](https://nvchad.com)
 - shell: [Zsh](https://wiki.archlinux.org/title/Zsh) with [Oh My ZSH!](https://ohmyz.sh)
-- color scheme: [Pywal](https://github.com/dylanaraps/pywal)
+- term: [kitty](https://sw.kovidgoyal.net/kitty)
+- editor: [Neovim](https://neovim.io) with [NvChad](https://nvchad.com)
+- wallp: [Hyprpaper](https://github.com/hyprwm/hyprpaper)
+- colors: [Pywal](https://github.com/dylanaraps/pywal)
+- notifs: [Dunst](https://wiki.archlinux.org/title/Dunst)
+- auth: [polkit-kde-agent](https://invent.kde.org/plasma/polkit-kde-agent-1)
+- stats: [rxfetch](https://github.com/Mangeshrex/rxfetch)
 
 ## Usage
 
