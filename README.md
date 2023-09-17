@@ -34,5 +34,5 @@ Install the [dependencies](#dependencies) listed above.
 Copy the config folders to their respective destination.
 
 ```zsh
-cp -r hypr/ .config/
+cp -r hypr/ $HOME/.config/
 ```
