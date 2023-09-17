@@ -4,22 +4,28 @@
 
 Dotfiles for Hyprland on Arch btw.
 
-- os: [Arch Linux](https://archlinux.org)
-- wm: [Hyprland](https://hyprland.org)
-- shell: [Zsh](https://wiki.archlinux.org/title/Zsh) with [Oh My ZSH!](https://ohmyz.sh)
-- term: [kitty](https://sw.kovidgoyal.net/kitty)
-- editor: [Neovim](https://neovim.io) with [NvChad](https://nvchad.com)
-- wallp: [Hyprpaper](https://github.com/hyprwm/hyprpaper)
-- colors: [Pywal](https://github.com/dylanaraps/pywal)
-- notifs: [Dunst](https://wiki.archlinux.org/title/Dunst)
-- auth: [polkit-kde-agent](https://invent.kde.org/plasma/polkit-kde-agent-1)
-- stats: [rxfetch](https://github.com/Mangeshrex/rxfetch)
+## Dependencies
+
+| component | software                                                             | install |
+| --------- | -------------------------------------------------------------------- | ------- |
+| os        | [Arch Linux](https://archlinux.org)                                  |         |
+| wm        | [Hyprland](https://hyprland.org)                                     |         |
+| shell     | [Zsh](https://wiki.archlinux.org/title/Zsh)                          |         |
+| theme     | [Oh My ZSH!](https://ohmyz.sh)                                       |         |
+| term      | [kitty](https://sw.kovidgoyal.net/kitty)                             |         |
+| editor    | [Neovim](https://neovim.io)                                          |         |
+| theme     | [NvChad](https://nvchad.com)                                         |         |
+| wallp     | [Hyprpaper](https://github.com/hyprwm/hyprpaper)                     |         |
+| colors    | [Pywal](https://github.com/dylanaraps/pywal)                         |         |
+| notifs    | [Dunst](https://wiki.archlinux.org/title/Dunst)                      |         |
+| auth      | [polkit-kde-agent](https://invent.kde.org/plasma/polkit-kde-agent-1) |         |
+| stats     | [rxfetch](https://github.com/Mangeshrex/rxfetch)                     |         |
 
 ## Usage
 
 ### Install
 
-Install the packages listed above.
+Install the [dependencies](#dependencies) listed above.
 
 ### Configure
 
