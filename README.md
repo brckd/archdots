@@ -19,4 +19,8 @@ Install the packages listed above.
 
 ### Configure
 
-Copy the config folders to the respective destinations.
+Copy the config folders to their respective destination.
+
+```zsh
+cp -r hypr/ .config/
+```
