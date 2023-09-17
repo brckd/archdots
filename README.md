@@ -4,6 +4,8 @@
 
 Dotfiles for Hyprland on Arch btw.
 
+![dotfiles-github](https://github.com/brckd/dotfiles/assets/92804487/e9b36a07-1fdd-4512-9336-ecb3cd4a6bd2)
+
 ## Dependencies
 
 | component | software                                                             | install                                                                                           |
