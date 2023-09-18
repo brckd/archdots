@@ -35,4 +35,4 @@ cp -r hypr/ $HOME/.config/
 
 ## Wallpapers
 
-Place wallpapers into `~/.wallpapers/DESKTOP.png` for each `DESKTOP` from `1` through `10`. You can also get my personal selection of wallpapers [here](https://wallhaven.cc/user/bricked/favorites/1610011).
+Place wallpapers into `~/.wallpapers/DESKTOP.jpg` for each `DESKTOP` from `1` through `10`. You can also get my personal selection of wallpapers [here](https://wallhaven.cc/user/bricked/favorites/1610011).
