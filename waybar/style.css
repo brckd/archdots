@@ -25,5 +25,5 @@ button * {
 }
 
 .focused {
-  color: @color3; 
+  color: @color3;
 }

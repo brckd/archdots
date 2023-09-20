@@ -15,7 +15,6 @@ Install the software below to make use of the config.
 |   wm   |         [Hyprland](https://hyprland.org)         |
 | shell  |   [Zsh](https://wiki.archlinux.org/title/Zsh)    |
 | theme  |          [Oh My ZSH!](https://ohmyz.sh)          |
-|  term  |     [kitty](https://sw.kovidgoyal.net/kitty)     |
 | colors |   [Pywal](https://github.com/dylanaraps/pywal)   |
 | wallp  | [Hyprpaper](https://github.com/hyprwm/hyprpaper) |
 |  bar   |   [Waybar](https://github.com/Alexays/Waybar)    |
@@ -27,6 +26,7 @@ Install the software below to make use of the config.
 
 |  app   |                                 name                                 |
 | :----: | :------------------------------------------------------------------: |
+|  term  |               [kitty](https://sw.kovidgoyal.net/kitty)               |
 | editor |                     [Neovim](https://neovim.io)                      |
 | theme  |                     [NvChad](https://nvchad.com)                     |
 | notifs |           [Dunst](https://wiki.archlinux.org/title/Dunst)            |
