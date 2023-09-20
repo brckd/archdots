@@ -18,6 +18,7 @@ Install the software below to make use of the config.
 |  term  |     [kitty](https://sw.kovidgoyal.net/kitty)     |
 | colors |   [Pywal](https://github.com/dylanaraps/pywal)   |
 | wallp  | [Hyprpaper](https://github.com/hyprwm/hyprpaper) |
+|  bar   |   [Waybar](https://github.com/Alexays/Waybar)    |
 
 ### Optional Dependencies
 

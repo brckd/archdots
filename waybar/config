@@ -1,0 +1,17 @@
+{
+  "layer": "top",
+  "modules-left": ["hyprland/workspaces", "sway/mode"],
+  "modules-center": ["hyprland/window"],
+  "modules-right": ["battery", "clock"],
+  "hyprland/workspaces": {
+    "format": "{}",
+    "on-scroll-up": "hyprctl dispatch workspace e+1",
+    "on-scroll-down": "hyprctl dispatch workspace e-1",
+  },
+  "margin-top": 20,
+  "margin-left": 20,
+  "margin-right": 20,
+  "clock": {
+    "format-alt": "{:%a, %d. %b  %H:%M}"
+  }
+}
