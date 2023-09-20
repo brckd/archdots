@@ -1,48 +1,22 @@
 @import "../../.cache/wal/colors-waybar.css";
 
 * {
-  background: @background;
-  color: @theme_text_color;
   font-family: "Hack Nerd Font Mono", Roboto, Helvetica, Arial, sans-serif;
   font-size: 13px;
   opacity: 0.95;
-  border-radius: 10px;
+  border: 10px none;
+  background: transparent;
+  color: @theme_text_color;
 }
 
-window#waybar {
-  border: 1px solid white;
-}
-
-tooltip {
+window {
   background: @background;
 }
-tooltip label {
-  color: white;
+
+button * {
+  color: @color1;
 }
 
-#workspaces button {
-  padding: 0 5px;
-  background: transparent;
-  color: white;
-  border-bottom: 3px solid transparent;
-}
-
-#workspaces button.focused {
-  background: #64727d;
-  border-bottom: 3px solid white;
-}
-
-#mode,
-#clock,
-#battery {
-  padding: 0 10px;
-}
-
-#mode {
-  background: #64727d;
-  border-bottom: 3px solid white;
-}
-
-#clock {
-  background-color: @color1;
+.focused * {
+  color: @color2; 
 }
