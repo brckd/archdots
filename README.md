@@ -17,10 +17,10 @@ Install the software below to make use of the config.
 | shell     | [Zsh](https://wiki.archlinux.org/title/Zsh)                          | `pacman -S zsh`                                                                                   |
 | theme     | [Oh My ZSH!](https://ohmyz.sh)                                       | `sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"` |
 | term      | [kitty](https://sw.kovidgoyal.net/kitty)                             | `pacman -S kitty`                                                                                 |
+| colors    | [Pywal](https://github.com/dylanaraps/pywal)                         | `pacman -S python-pywal`                                                                          |
 | editor    | [Neovim](https://neovim.io)                                          | `pacman -S neovim`                                                                                |
 | theme     | [NvChad](https://nvchad.com)                                         | `git clone https://github.com/NvChad/NvChad ~/.config/nvim --depth 1 && nvim`                     |
 | wallp     | [Hyprpaper](https://github.com/hyprwm/hyprpaper)                     | `pacman -S hyprpaper`                                                                             |
-| colors    | [Pywal](https://github.com/dylanaraps/pywal)                         | `pacman -S python-pywal`                                                                          |
 | notifs    | [Dunst](https://wiki.archlinux.org/title/Dunst)                      | `pacman -S dunst`                                                                                 |
 | auth      | [polkit-kde-agent](https://invent.kde.org/plasma/polkit-kde-agent-1) | `pacman -S polkit-kde-agent`                                                                      |
 | stats     | [rxfetch](https://github.com/Mangeshrex/rxfetch)                     | `yay -S rxfetch ttf-material-design-icons`                                                        |
