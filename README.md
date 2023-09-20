@@ -18,7 +18,7 @@ Install the software below to make use of the config.
 | theme     | [Oh My ZSH!](https://ohmyz.sh)                                       | `sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"` |
 | term      | [kitty](https://sw.kovidgoyal.net/kitty)                             | `pacman -S kitty`                                                                                 |
 | editor    | [Neovim](https://neovim.io)                                          | `pacman -S neovim`                                                                                |
-| theme     | [NvChad](https://nvchad.com)                                         | `git clone https://github.com/NvChad/NvChad ~/.config/nvim --depth 1 && nvim`                      |
+| theme     | [NvChad](https://nvchad.com)                                         | `git clone https://github.com/NvChad/NvChad ~/.config/nvim --depth 1 && nvim`                     |
 | wallp     | [Hyprpaper](https://github.com/hyprwm/hyprpaper)                     | `pacman -S hyprpaper`                                                                             |
 | colors    | [Pywal](https://github.com/dylanaraps/pywal)                         | `pacman -S python-pywal`                                                                          |
 | notifs    | [Dunst](https://wiki.archlinux.org/title/Dunst)                      | `pacman -S dunst`                                                                                 |
@@ -26,6 +26,8 @@ Install the software below to make use of the config.
 | stats     | [rxfetch](https://github.com/Mangeshrex/rxfetch)                     | `yay -S rxfetch ttf-material-design-icons`                                                        |
 | ls        | [lf](https://github.com/gokcehan/lf)                                 | `pacman -S lf`                                                                                    |
 | prev      | [ctpv](https://github.com/NikitaIvanovV/ctpv)                        | `yay -S ctpv-git`                                                                                 |
+| browser   | [LibreWolf](https://librewolf.net)                                   | `yay -S librewolf` `yay -S librewolf-bin`                                                         |
+| ctrls     | [Vimium](https://github.com/philc/vimium)                            | [Firefox](https://addons.mozilla.org/firefox/downloads/file/4137983/vimium_ff-1.67.7.xpi)         |
 
 ## Configure
 
