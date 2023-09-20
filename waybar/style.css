@@ -5,7 +5,7 @@
   font-size: 13px;
   border-style: none;
   background: transparent;
-  color: @theme_text_color;
+  color: @foreground;
 }
 
 window {
