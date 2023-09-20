@@ -3,20 +3,27 @@
 * {
   font-family: "Hack Nerd Font Mono", Roboto, Helvetica, Arial, sans-serif;
   font-size: 13px;
-  opacity: 0.95;
-  border: 10px none;
+  border-style: none;
   background: transparent;
   color: @theme_text_color;
 }
 
 window {
+  opacity: 0.95;
   background: @background;
+  border-radius: 10px;
+}
+
+.modules-left,
+.modules-center,
+.modules-right {
+  margin: 0px 10px;
 }
 
 button * {
-  color: @color1;
+  color: @color2;
 }
 
-.focused * {
-  color: @color2; 
+.focused {
+  color: @color3; 
 }
