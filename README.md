@@ -10,16 +10,24 @@ Dotfiles for Hyprland on Arch btw.
 
 Install the software below to make use of the config.
 
-|   os   |                 [Arch Linux](https://archlinux.org)                  |
+|   os   |       [Arch Linux](https://archlinux.org)        |
+| :----: | :----------------------------------------------: |
+|   wm   |         [Hyprland](https://hyprland.org)         |
+| shell  |   [Zsh](https://wiki.archlinux.org/title/Zsh)    |
+| theme  |          [Oh My ZSH!](https://ohmyz.sh)          |
+|  term  |     [kitty](https://sw.kovidgoyal.net/kitty)     |
+| colors |   [Pywal](https://github.com/dylanaraps/pywal)   |
+| wallp  | [Hyprpaper](https://github.com/hyprwm/hyprpaper) |
+
+### Optional Dependencies
+
+<details>
+<summary>Expand</summary>
+
+|  app   |                                 name                                 |
 | :----: | :------------------------------------------------------------------: |
-|   wm   |                   [Hyprland](https://hyprland.org)                   |
-| shell  |             [Zsh](https://wiki.archlinux.org/title/Zsh)              |
-| theme  |                    [Oh My ZSH!](https://ohmyz.sh)                    |
-|  term  |               [kitty](https://sw.kovidgoyal.net/kitty)               |
-| colors |             [Pywal](https://github.com/dylanaraps/pywal)             |
 | editor |                     [Neovim](https://neovim.io)                      |
 | theme  |                     [NvChad](https://nvchad.com)                     |
-| wallp  |           [Hyprpaper](https://github.com/hyprwm/hyprpaper)           |
 | notifs |           [Dunst](https://wiki.archlinux.org/title/Dunst)            |
 |  auth  | [polkit-kde-agent](https://invent.kde.org/plasma/polkit-kde-agent-1) |
 | stats  |           [rxfetch](https://github.com/Mangeshrex/rxfetch)           |
@@ -27,6 +35,8 @@ Install the software below to make use of the config.
 |  prev  |            [ctpv](https://github.com/NikitaIvanovV/ctpv)             |
 | brows  |                  [LibreWolf](https://librewolf.net)                  |
 | ctrls  |              [Vimium](https://github.com/philc/vimium)               |
+
+</details>
 
 ## Configure
 
