@@ -4,7 +4,17 @@
 
 Dotfiles for Hyprland on Arch btw.
 
-![dotfiles-github](https://github.com/brckd/dotfiles/assets/92804487/e9b36a07-1fdd-4512-9336-ecb3cd4a6bd2)
+## Preview
+![Desktop 1](https://github.com/brckd/dotfiles/assets/92804487/98413263-5419-4a85-91db-4e3e94980bd2)
+
+<details>
+<summary>Expand More</summary>
+
+![Desktop 2](https://github.com/brckd/dotfiles/assets/92804487/e7a0183d-e772-4eef-b9a7-f5074555ca84)
+![Desktop 3](https://github.com/brckd/dotfiles/assets/92804487/fc198cb4-0362-4a4e-98e5-4a914921b140)
+![Desktop 4](https://github.com/brckd/dotfiles/assets/92804487/c360a6f2-3844-4930-b612-cac13c46806e)
+
+</details>
 
 ## Dependencies
 
