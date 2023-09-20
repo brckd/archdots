@@ -25,6 +25,7 @@ Install the software below to make use of the config
 | colors |   [Pywal](https://github.com/dylanaraps/pywal)   |
 | wallp  | [Hyprpaper](https://github.com/hyprwm/hyprpaper) |
 |  bar   |   [Waybar](https://github.com/Alexays/Waybar)    |
+| launch |      [Wofi](https://hg.sr.ht/~scoopta/wofi)      |
 
 ### Optional Dependencies
 
@@ -51,7 +52,7 @@ Install the software below to make use of the config
 Copy the config folders to their respective destination.
 
 ```zsh
-cp -r hypr/ lf/ waybar/ zsh/ $HOME/.config/
+cp -r hypr/ lf/ waybar/ wofi/ zsh/ $HOME/.config/
 ```
 
 ## Wallpapers

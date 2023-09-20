@@ -1,0 +1,28 @@
+@import ".cache/wal/colors-waybar.css";
+
+* {
+  font-family: "Hack Nerd Font Mono", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 13px;
+  border: none;
+  border-radius: 10px;
+  background: transparent;
+  color: @foreground;
+}
+
+#outer-box {
+  background: @background;
+  opacity: 0.8;
+  border: 2px solid rgba(255, 255, 255, 0.66);
+}
+
+#entry {
+  padding: 5px 8px;
+}
+
+#entry:selected {
+  border: none;
+}
+
+#text:selected {
+  color: @color2;
+}
