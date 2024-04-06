@@ -1,21 +1,24 @@
-# dotfiles
+# archdots
 
-[![license](https://custom-icon-badges.demolab.com/github/license/brckd/dotfiles?logo=law)](LICENSE.md)
+[![license](https://custom-icon-badges.demolab.com/github/license/brckd/archdots?logo=law)](LICENSE.md)
 
 Dotfiles for Hyprland on Arch btw.
 
+> [!Warning]
+> This project has been archived, as I no longer use Arch, btw. Check out [my NixOS configurations](https://github.com/brckd/nixdots) instead.
+
 ## Preview
 
-<img src="https://github.com/brckd/dotfiles/assets/92804487/98413263-5419-4a85-91db-4e3e94980bd2" alt="Main Desktop"/>
-<img src="https://github.com/brckd/dotfiles/assets/92804487/e7a0183d-e772-4eef-b9a7-f5074555ca84" alt="Desktop 2" width="31.5%" align="left"/>
-<img src="https://github.com/brckd/dotfiles/assets/92804487/fc198cb4-0362-4a4e-98e5-4a914921b140" alt="Desktop 3" width="31.5%" align="left"/>
-<img src="https://github.com/brckd/dotfiles/assets/92804487/c360a6f2-3844-4930-b612-cac13c46806e" alt="Desktop 4" width="31.5%"/>
+<img src="https://github.com/brckd/archdots/assets/92804487/98413263-5419-4a85-91db-4e3e94980bd2" alt="Main Desktop"/>
+<img src="https://github.com/brckd/archdots/assets/92804487/e7a0183d-e772-4eef-b9a7-f5074555ca84" alt="Desktop 2" width="31.5%" align="left"/>
+<img src="https://github.com/brckd/archdots/assets/92804487/fc198cb4-0362-4a4e-98e5-4a914921b140" alt="Desktop 3" width="31.5%" align="left"/>
+<img src="https://github.com/brckd/archdots/assets/92804487/c360a6f2-3844-4930-b612-cac13c46806e" alt="Desktop 4" width="31.5%"/>
 
 ## Dependencies
 
 Install the software below to make use of the config
 
-<img src="https://github.com/brckd/dotfiles/assets/92804487/14d1ee1b-1212-40be-b4f8-5f67dc83fb86" alt="Stats" align="right"/>
+<img src="https://github.com/brckd/archdots/assets/92804487/14d1ee1b-1212-40be-b4f8-5f67dc83fb86" alt="Stats" align="right"/>
 
 |   os   |       [Arch Linux](https://archlinux.org)        |
 | :----: | :----------------------------------------------: |
